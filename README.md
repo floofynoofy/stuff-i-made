@@ -1,2 +1,2 @@
 # stuff-i-made
-stuff i have made
+this is a repository of all (most) of the projects i have made
